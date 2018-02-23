@@ -17,7 +17,3 @@ function draw() {
     noStroke();
     triangle(mouseX, mouseY, 50, 20, 86, 75);
 }
-
-function mousePressed() {
-    background(250, 250, 100);
-}
